@@ -1,0 +1,10 @@
+customer_id,first_name,last_name,email,age,country
+101,John,Doe,johndoe@email.com,28,USA
+102,Jane,Smith,,32,UK
+103,Robert,,robert@email.com,,
+104,Emily,White,emilywhite@email.com,25,Australia
+105,Michael,Green,,,
+106,Linda,Johnson,lindaj@email.com,29,Canada
+107,,Brown,,35,USA
+108,Chris,Miller,chrismiller@email.com,,
+108,Chris,Miller,chrismiller@email.com,,

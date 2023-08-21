@@ -1,0 +1,16 @@
+order_id,customer_id,product,quantity,price
+2001,101,Smartphone,1,599.99
+2002,102,Laptop,1,999.99
+2003,103,Coffee Maker,2,49.99
+2004,104,Bookshelf,1,89.99
+2005,105,Running Shoes,3,69.99
+2006,101,Laptop,1,999.99
+2007,102,Coffee Maker,1,49.99
+2008,103,Running Shoes,2,69.99
+2009,104,Smartphone,1,599.99
+2010,105,Bookshelf,2,89.99
+2011,101,Running Shoes,1,69.99
+2012,102,Smartphone,1,599.99
+2013,103,Bookshelf,1,89.99
+2014,104,Coffee Maker,1,49.99
+2015,105,Laptop,1,999.99

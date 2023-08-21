@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock
+1001,Smartphone,Electronics,599.99,10
+1002,Laptop,Electronics,999.99,5
+1003,Coffee Maker,Home Appliances,49.99,20
+1004,Bookshelf,Furniture,,8
+1005,Running Shoes,Fashion,69.99,25
+1006,Desk Lamp,Home Decor,19.99,30
+1007,Backpack,Fashion,39.99,15
+1008,Refrigerator,Home Appliances,799.99,3
+1009,Office Chair,Furniture,129.99,10
+1010,Bluetooth Speaker,Electronics,29.99,12
